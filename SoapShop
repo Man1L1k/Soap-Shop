@@ -1,0 +1,33 @@
+<style>
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+    }
+</style>
+
+
+<!-- Custom styles for this template -->
+<link href="StyleSheet.css" rel="stylesheet">
+<div class="container">
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom" style=" background-color: #808080">
+        <ul class="nav nav-pills">
+            <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Главная</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Товары</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Корзина</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Часто задаваемые вопросы</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">О нас</a></li>
+        </ul>
+    </header>
+</div>
+<main class="container">
+    <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
+        <div class="col-md-6 px-0">
+            <h1 class="display-4 fst-italic">Скидки на первый заказ 10%</h1>
+            <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
+            <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue reading...</a></p>
+        </div>
+    </div>
+</main>
